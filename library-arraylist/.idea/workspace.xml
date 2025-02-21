@@ -5,22 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a13667a-ad49-465a-aea9-841a8eeb3f78" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../ArrayList/src/MyList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ArrayList/src/MyListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList/src/MyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList/src/MyLinkedListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList/src/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyArrayListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../library-linked-list/src/MyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../library-linked-list/src/MyLinkedListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../library-linked-list/src/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../absolute-number-calculator/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../absolute-number-calculator/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo/src/CalculateTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fizz-buzz/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../fizz-buzz/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fizz-buzz/test/FizzBuzzTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fizz-buzz/test/FizzBuzzTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../next-day-calculator/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../next-day-calculator/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../triangle-classfifier/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../triangle-classfifier/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library-linked-list/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../library-linked-list/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +31,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Cuongrevival/C1224G1-Module2.git&quot;,
+    &quot;url&quot;: &quot;https://github.com/Cuongrevival/C1224G1-Module-2.git&quot;,
     &quot;accountId&quot;: &quot;2472d15b-b305-4bf8-aba8-4b3c8707488f&quot;
   }
 }</component>
@@ -112,6 +98,8 @@
       <workItem from="1740123339545" duration="24000" />
       <workItem from="1740127965586" duration="16000" />
       <workItem from="1740128667071" duration="4000" />
+      <workItem from="1740131538828" duration="3000" />
+      <workItem from="1740131569020" duration="1000" />
     </task>
     <servers />
   </component>
