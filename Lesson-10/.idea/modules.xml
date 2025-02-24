@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayQueue/ArrayQueue.iml" filepath="$PROJECT_DIR$/ArrayQueue/ArrayQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayStack/ArrayStack.iml" filepath="$PROJECT_DIR$/ArrayStack/ArrayStack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Count_Number-Of-Words/Count_Number-Of-Words.iml" filepath="$PROJECT_DIR$/Count_Number-Of-Words/Count_Number-Of-Words.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Decimal_Binary_Hexadecimal/Decimal_Binary_Hexadecimal.iml" filepath="$PROJECT_DIR$/Decimal_Binary_Hexadecimal/Decimal_Binary_Hexadecimal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Lesson-10.iml" filepath="$PROJECT_DIR$/.idea/Lesson-10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Link_List_Round/Link_List_Round.iml" filepath="$PROJECT_DIR$/Link_List_Round/Link_List_Round.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Queue-Using-linked-List/Queue-Using-linked-List.iml" filepath="$PROJECT_DIR$/Queue-Using-linked-List/Queue-Using-linked-List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reverse_Array_Using_Stack/Reverse_Array_Using_Stack.iml" filepath="$PROJECT_DIR$/Reverse_Array_Using_Stack/Reverse_Array_Using_Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack/Stack.iml" filepath="$PROJECT_DIR$/Stack/Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack-Using-Linked-List/Stack-Using-Linked-List.iml" filepath="$PROJECT_DIR$/Stack-Using-Linked-List/Stack-Using-Linked-List.iml" />
+    </modules>
+  </component>
+</project>
