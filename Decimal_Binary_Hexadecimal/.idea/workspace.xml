@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2fa88b2d-9876-41ae-8d10-63b3d4a9458d" name="Changes" comment="">
+    <list default="true" id="c2452a2f-e157-4bc0-90be-bfb9313d5f86" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../demo/src/demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayList/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/Calculate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/CalculateTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../library-arraylist/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../library-arraylist/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,34 +30,36 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;Cuongrevival&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Cuongrevival"
   }
-}</component>
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Cuongrevival/C1224G1-Module-2.git",
     "accountId": "2472d15b-b305-4bf8-aba8-4b3c8707488f"
   }
 }]]></component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 1
-}</component>
-  <component name="ProjectId" id="2tKl1ZjGsc2UwAEZTF7bn7qWCaV" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2tUS4q3ojkSPGveuu1tCZWVMgip" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.MyListTest.executor": "Run",
+    "Application.BinaryDecimal.executor": "Run",
+    "Application.DecimalBinary.executor": "Run",
+    "Application.DecimalToHexa.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/C1224G1-Module2/Lesson-10",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -58,17 +68,33 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="MyListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyListTest" />
-      <module name="ArrayList" />
+  <component name="RunManager" selected="Application.DecimalToHexa">
+    <configuration name="BinaryDecimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinaryDecimal" />
+      <module name="Decimal_Binary_Hexadecimal" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DecimalBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DecimalBinary" />
+      <module name="Decimal_Binary_Hexadecimal" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DecimalToHexa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DecimalToHexa" />
+      <module name="Decimal_Binary_Hexadecimal" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MyListTest" />
+        <item itemvalue="Application.DecimalToHexa" />
+        <item itemvalue="Application.BinaryDecimal" />
+        <item itemvalue="Application.DecimalBinary" />
       </list>
     </recent_temporary>
   </component>
@@ -83,14 +109,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2fa88b2d-9876-41ae-8d10-63b3d4a9458d" name="Changes" comment="" />
-      <created>1740108432436</created>
+      <changelist id="c2452a2f-e157-4bc0-90be-bfb9313d5f86" name="Changes" comment="" />
+      <created>1740404972130</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1740108432436</updated>
-      <workItem from="1740108433387" duration="693000" />
-      <workItem from="1740111176630" duration="9000" />
-      <workItem from="1740320592051" duration="17000" />
+      <updated>1740404972130</updated>
+      <workItem from="1740404973171" duration="3986000" />
     </task>
     <servers />
   </component>
