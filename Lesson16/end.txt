@@ -1,0 +1,3 @@
+Cáchoạtđộngnhập/xuấtdữliệunhưnhậpdữliệutừbànphím,đọc
+dữ liệu từfile, ghi dữ liệu mànhình,ghi rafile, ghi rađĩa,ghi ramáy
+in...đượcgọilàstream(dòng)
