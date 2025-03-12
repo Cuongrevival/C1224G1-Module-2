@@ -1,7 +1,7 @@
 import java.io.*;
 
 public class CopyFile {
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) {
         try (ObjectInputStream ois = new ObjectInputStream(new FileInputStream("start.bin"));
              ObjectOutputStream oos = new ObjectOutputStream(new FileOutputStream("end.bin"));
         ) {

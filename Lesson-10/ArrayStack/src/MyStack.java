@@ -16,6 +16,7 @@ public class MyStack {
         array[index] = element;
         index++;
     }
+
     public int pop() {
         if (isEmpty()) {
             throw new RuntimeException("Stack is empty");
@@ -29,6 +30,10 @@ public class MyStack {
 
     public boolean isFull() {
         return index == size;
+    }
+
+    public int size() {
+        return index;
     }
 
 }

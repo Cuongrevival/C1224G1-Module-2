@@ -5,7 +5,7 @@ public class MyGenericStack<T> {
     private LinkedList<T> stack;
 
     public MyGenericStack() {
-        stack = new LinkedList();
+        stack = new LinkedList<>();
     }
 
     public void push(T element) {
@@ -24,9 +24,6 @@ public class MyGenericStack<T> {
     }
 
     public boolean isEmpty() {
-        if (stack.size() == 0) {
-            return true;
-        }
-        return false;
+        return stack.isEmpty();
     }
 }

@@ -25,5 +25,7 @@ public class LargestString {
             System.out.print(c);
         }
     }
-
 }
+// f(n * (n - 1)) + f(1 + 1)
+// O(n^2) + O(n)
+// O(n^2)

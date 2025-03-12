@@ -1,23 +1,15 @@
-public class encodeString {
-    public static String encodeString(String str) {
-        String result = "";
-        java.util.Stack<Character> stack = new java.util.Stack<Character>();
-        str = str + "";
-        for (int i = 0; i < str.length(); i++) {
-            if (stack.empty() || stack.peek() == str.charAt(i)) {
-                stack.push(str.charAt(i));
-            } else {
-                int count = 0;
-                result = result + stack.peek();
-                while (!stack.empty()) {
-                    count++;
-                    stack.pop();
-                }
+import java.util.HashSet;
+import java.util.Set;
 
-                result = result + count;
-                stack.push(str.charAt(i));
+public class encodestring {
+    public static java.util.ArrayList<Integer> insert_even_values(java.util.HashMap<Integer, Integer> hashMap) {
+        java.util.ArrayList<Integer> arrayList = new java.util.ArrayList<Integer>();
+        for (int i = 0; i < hashMap.size(); i++) {
+            if (hashMap.get
+                    (i) % 2 == 0){
+                arrayList.add(hashMap.get(i));
             }
         }
-        return result;
+        return arrayList;
     }
 }

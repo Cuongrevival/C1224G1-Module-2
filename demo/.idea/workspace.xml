@@ -5,26 +5,51 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d81fad04-e310-430b-b2b2-32a646316ce7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Linked_List_Round/src/CountNumberOfWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Linked_List_Round/src/demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Queue-Using-linked-List/src/LinkedListQueueClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Queue-Using-linked-List/src/MyLinkedListQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Queue-Using-linked-List/src/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reverse_Array_Using_Stack/src/IntegerSwapUsingStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reverse_Array_Using_Stack/src/StringSwapUsingStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stack-Using-Linked-List/src/GenericStackClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stack-Using-Linked-List/src/MyGenericStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stack/src/Cars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stack/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayList/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/demo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Calculate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CalculateTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../library-arraylist/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../library-arraylist/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson20/src/Animal/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson20/src/Animal/AnimalFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson20/src/Animal/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson20/src/Animal/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson20/src/Animal/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson20/src/Book/BookBorrower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson20/src/Book/BookSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson20/src/Book/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson20/src/Shape/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson20/src/Shape/FactoryDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson20/src/Shape/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson20/src/Shape/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson20/src/Shape/ShapeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson20/src/Shape/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson20/src/Taxi/Taxi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson20/src/Taxi/TaxiPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson20/src/Taxi/TaxiPoolDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson20/src/Taxi/TaxiThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Case-Study/src/PlaneManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Case-Study/src/PlaneManagement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson-10/ArrayStack/src/MyStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson-10/ArrayStack/src/MyStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson-10/ArrayStack/src/StackClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson-10/ArrayStack/src/StackClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson-10/Decimal_Binary_Hexadecimal/src/DecimalBinary.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson-10/Decimal_Binary_Hexadecimal/src/DecimalBinary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson-10/Decimal_Binary_Hexadecimal/src/DecimalToHexa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson-10/Decimal_Binary_Hexadecimal/src/DecimalToHexa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson-10/Demerging/src/DemergingAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson-10/Demerging/src/DemergingAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson-10/Demerging/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson-10/Demerging/src/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson-10/Reverse_Array_Using_Stack/src/IntegerSwapUsingStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson-10/Reverse_Array_Using_Stack/src/IntegerSwapUsingStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson-10/Stack-Using-Linked-List/src/GenericStackClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson-10/Stack-Using-Linked-List/src/GenericStackClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson-10/Stack-Using-Linked-List/src/MyGenericStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson-10/Stack-Using-Linked-List/src/MyGenericStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson12/src/LargestString/LargestString.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson12/src/LargestString/LargestString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson17/src/CopyFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson17/src/CopyFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson17/src/ProductFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson17/src/ProductFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MiniTest3/src/KiemSoatNhanVien.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MiniTest3/src/KiemSoatNhanVien.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MiniTest3/src/QuanLiNhanVien.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MiniTest3/src/QuanLiNhanVien.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MiniTest4/src/CrispyFlour.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MiniTest4/src/CrispyFlour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MiniTest4/src/Discount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MiniTest4/src/Discount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MiniTest4/src/Management.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MiniTest4/src/Management.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MiniTest4/src/Material.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MiniTest4/src/Material.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MiniTest4/src/MaterialManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MiniTest4/src/MaterialManagement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MiniTest4/src/Meat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MiniTest4/src/Meat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo1/country.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../demo1/country.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo1/src/Country.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo1/src/Country.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo1/src/encodestring.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo1/src/encodestring.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,42 +66,50 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Cuongrevival"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Cuongrevival&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Cuongrevival/C1224G1-Module-2.git",
-    "accountId": "2472d15b-b305-4bf8-aba8-4b3c8707488f"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Cuongrevival/C1224G1-Module-2.git&quot;,
+    &quot;accountId&quot;: &quot;2472d15b-b305-4bf8-aba8-4b3c8707488f&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2tTtI2JKcSzgLv16zDph7tvhAqA" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.demo.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="demo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="demo" />
       <module name="demo" />
@@ -86,6 +119,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.demo" />
       </list>
     </recent_temporary>
@@ -93,8 +127,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.23654.189" />
-        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-IU-243.23654.189" />
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.25659.59" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.25659.59" />
       </set>
     </attachedChunks>
   </component>
@@ -107,6 +141,9 @@
       <option name="presentableId" value="Default" />
       <updated>1740387808947</updated>
       <workItem from="1740387810032" duration="837000" />
+      <workItem from="1741590703505" duration="3113000" />
+      <workItem from="1741594276964" duration="43000" />
+      <workItem from="1741594327282" duration="9000" />
     </task>
     <servers />
   </component>

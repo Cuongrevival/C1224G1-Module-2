@@ -15,7 +15,10 @@ public class KiemSoatNhanVien {
                 "0345678912", "cuc@gmail.com", 8));
         quanLiNhanVien.themNhanVien(new NhanVienPartTime("006", "Le Van Trung", 21,
                 "0145888763", "trung@gmail.com", 8));
-       quanLiNhanVien.HienNhanVien();
+        System.out.println("Những nhân viên làm việc full-time: ");
+        quanLiNhanVien.HienNhanVienFullTime();
+        System.out.println("Những nhân viên làm việc part-time: ");
+        quanLiNhanVien.HienNhanVienPartTime();
         System.out.println("Tiền lương trung bình: " + quanLiNhanVien.tinhTienLuongTrungBinh());
         System.out.println("Nhân viên toàn thời gian có lương thấp hơn trung bình: ");
         quanLiNhanVien.nhanVienToanThoiGianLuongThap();

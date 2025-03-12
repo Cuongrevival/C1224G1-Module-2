@@ -6,10 +6,10 @@ public class StackClient {
         stack.push(20);
         stack.push(30);
         stack.push(40);
-        System.out.println(stack.size);
+        System.out.println(stack.size());
         while(!stack.isEmpty()) {
             System.out.println(stack.pop());
         }
-        System.out.println(stack.size);
+        System.out.println(stack.size());
     }
 }

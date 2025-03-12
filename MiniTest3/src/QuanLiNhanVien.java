@@ -4,23 +4,34 @@ import java.util.List;
 
 public class QuanLiNhanVien {
     List<NhanVien> danhSachNhanVien = new ArrayList<>();
-public void HienNhanVien() {
-    for (NhanVien nv : danhSachNhanVien) {
-        System.out.println(nv);
+
+    public void HienNhanVienFullTime() {
+        for (NhanVien nv : danhSachNhanVien) {
+            if (nv instanceof NhanVienFullTime) {
+                System.out.println(nv);
+            }
+        }
     }
-}
+    public void HienNhanVienPartTime() {
+        for (NhanVien nv : danhSachNhanVien) {
+            if (nv instanceof NhanVienPartTime) {
+                System.out.println(nv);
+            }
+        }
+    }
+
     public void themNhanVien(NhanVien nv) {
         danhSachNhanVien.add(nv);
     }
 
     public int tinhTienLuongTrungBinh() {
-        long tongLuong = 0;
-        long luongTrungBinh;
+        int tongLuong = 0;
+        int luongTrungBinh;
         for (NhanVien nv : danhSachNhanVien) {
             tongLuong += nv.luongThucLinh();
         }
         luongTrungBinh = tongLuong / danhSachNhanVien.size();
-        return (int) luongTrungBinh;
+        return luongTrungBinh;
     }
 
     public void nhanVienToanThoiGianLuongThap() {
@@ -33,7 +44,7 @@ public void HienNhanVien() {
                 }
             }
         }
-        for (NhanVien nv : nhanVienFullTimeList) {
+        for (NhanVienFullTime nv : nhanVienFullTimeList) {
             System.out.println(nv);
         }
     }
@@ -69,18 +80,13 @@ public void HienNhanVien() {
     public void timKiemNhanVien(String ten) {
         if (danhSachNhanVien.isEmpty()) {
             System.out.println("Không có nhân viên trong công ty");
-            return;
         }
-        boolean found = false;
         for (NhanVien nv : danhSachNhanVien) {
             if (nv.getHoTen().toLowerCase().contains(ten.toLowerCase())) {
-                System.out.println("Tìm thấy: " + nv.hoTen);
-                found = true;
+                System.out.println("Tìm thấy nhân viên: " + nv.getHoTen());
+                return;
             }
-        }
-        if (!found) {
-            System.out.println("Không tìm thấy nhân viên trong công ty");
-
+            System.out.println("Không tìm thấy nhân viên có tên: " + ten);
         }
     }
 }

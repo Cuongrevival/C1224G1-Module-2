@@ -3,21 +3,6 @@ import java.io.IOException;
 import java.util.LinkedList;
 import java.util.Queue;
 
-class Person {
-    String name;
-    String gender;
-
-    public Person(String name, String gender) {
-        this.name = name;
-        this.gender = gender;
-    }
-
-    @Override
-    public String toString() {
-        return name + " - " + gender;
-    }
-}
-
 public class DemergingAlgorithm {
     public static void demerge(Person[] people, String outputFile) {
         Queue<Person> NU = new LinkedList<>();

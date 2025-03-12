@@ -1,4 +1,4 @@
-import java.util.Arrays;
+
 import java.util.Stack;
 import java.util.Scanner;
 
@@ -16,8 +16,8 @@ public class IntegerSwapUsingStack {
     }
     private static void reverseStack(int[] arr) {
         Stack<Integer> stack = new Stack<>();
-        for (int i = 0; i < arr.length; i++) {
-            stack.push(arr[i]);
+        for (int j : arr) {
+            stack.push(j);
         }
         while (!stack.isEmpty()) {
             System.out.print(stack.pop() + " ");

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9e304651-b3f8-4c14-b229-da52626c97e4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Case-Study/src/PlaneManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Case-Study/src/PlaneManagement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson-10/ArrayStack/src/MyStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson-10/ArrayStack/src/MyStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson-10/ArrayStack/src/StackClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson-10/ArrayStack/src/StackClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson-10/Decimal_Binary_Hexadecimal/src/DecimalBinary.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson-10/Decimal_Binary_Hexadecimal/src/DecimalBinary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson-10/Decimal_Binary_Hexadecimal/src/DecimalToHexa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson-10/Decimal_Binary_Hexadecimal/src/DecimalToHexa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson-10/Demerging/src/DemergingAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson-10/Demerging/src/DemergingAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson-10/Demerging/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson-10/Demerging/src/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson-10/Reverse_Array_Using_Stack/src/IntegerSwapUsingStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson-10/Reverse_Array_Using_Stack/src/IntegerSwapUsingStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson-10/Stack-Using-Linked-List/src/GenericStackClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson-10/Stack-Using-Linked-List/src/GenericStackClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson-10/Stack-Using-Linked-List/src/MyGenericStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson-10/Stack-Using-Linked-List/src/MyGenericStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson12/src/LargestString/LargestString.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson12/src/LargestString/LargestString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson17/src/CopyFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson17/src/CopyFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson17/src/ProductFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson17/src/ProductFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson20/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson20/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson20/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson20/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson20/Lesson20.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson20/src/Animal/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson20/src/Animal/AnimalFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson20/src/Animal/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson20/src/Animal/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson20/src/Animal/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson20/src/Book/BookBorrower.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson20/src/Book/BookSingleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson20/src/Book/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson20/src/Shape/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson20/src/Shape/FactoryDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson20/src/Shape/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson20/src/Shape/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson20/src/Shape/ShapeFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson20/src/Shape/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson20/src/Taxi/Taxi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson20/src/Taxi/TaxiPool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson20/src/Taxi/TaxiPoolDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson20/src/Taxi/TaxiThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson20/src/bulletgame/Bullet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson20/src/bulletgame/BulletPool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson20/src/bulletgame/Gun.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson20/src/bulletgame/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson20/src/bulletgame/MemoryPool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson21/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson21/.idea/libraries/codegym_file_utils.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson21/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson21/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson21/Lesson21.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson21/Lesson21.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson21/codegym-file-utils.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson21/java-collection-utils.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson21/src/Calculator/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson21/src/Calculator/CalculatorProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson21/src/Calculator/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson21/src/Calculator/MathCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson21/src/Download/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson21/src/Download/Downloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson21/src/Download/FileDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson21/src/Download/FileDownloaderProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson21/src/File/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson21/src/File/FileCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson21/src/File/FileCalculatorAdaptor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson21/src/File/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson21/src/MaximumNumber/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson21/src/MaximumNumber/CollectionOperations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson21/src/MaximumNumber/CollectionUtilAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson21/src/MaximumNumber/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson21/src/Randomnumber/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson21/src/Randomnumber/ListFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson21/src/Randomnumber/ListPrinter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson21/src/Randomnumber/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson21/src/Randomnumber/RandomList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson21/src/Randomnumber/RandomListFacade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson21/src/Randomnumber/RandomNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson21/src/SocialInternet/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson21/src/SocialInternet/Facebook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson21/src/SocialInternet/LinkedIn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson21/src/SocialInternet/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson21/src/SocialInternet/SocialMediaFacade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson21/src/SocialInternet/SocialShare.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson21/src/SocialInternet/Twitter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MiniTest3/src/KiemSoatNhanVien.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MiniTest3/src/KiemSoatNhanVien.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MiniTest3/src/QuanLiNhanVien.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MiniTest3/src/QuanLiNhanVien.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MiniTest4/src/CrispyFlour.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MiniTest4/src/CrispyFlour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MiniTest4/src/Discount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MiniTest4/src/Discount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MiniTest4/src/Management.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MiniTest4/src/Management.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MiniTest4/src/Material.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MiniTest4/src/Material.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MiniTest4/src/MaterialManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MiniTest4/src/MaterialManagement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MiniTest4/src/Meat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MiniTest4/src/Meat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/src/demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo1/country.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../demo1/country.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo1/src/Country.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo1/src/Country.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo1/src/encodestring.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo1/src/encodestring.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2uCHajvbaLPIt4FUW3vOwrQSd6B" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.25659.59" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.25659.59" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e304651-b3f8-4c14-b229-da52626c97e4" name="Changes" comment="" />
+      <created>1741745701399</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741745701399</updated>
+      <workItem from="1741745702493" duration="3000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
