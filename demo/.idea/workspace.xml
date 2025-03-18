@@ -5,51 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d81fad04-e310-430b-b2b2-32a646316ce7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Lesson20/src/Animal/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lesson20/src/Animal/AnimalFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lesson20/src/Animal/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lesson20/src/Animal/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lesson20/src/Animal/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lesson20/src/Book/BookBorrower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lesson20/src/Book/BookSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lesson20/src/Book/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lesson20/src/Shape/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lesson20/src/Shape/FactoryDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lesson20/src/Shape/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lesson20/src/Shape/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lesson20/src/Shape/ShapeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lesson20/src/Shape/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lesson20/src/Taxi/Taxi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lesson20/src/Taxi/TaxiPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lesson20/src/Taxi/TaxiPoolDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lesson20/src/Taxi/TaxiThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Case-Study/src/PlaneManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Case-Study/src/PlaneManagement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lesson-10/ArrayStack/src/MyStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson-10/ArrayStack/src/MyStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lesson-10/ArrayStack/src/StackClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson-10/ArrayStack/src/StackClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lesson-10/Decimal_Binary_Hexadecimal/src/DecimalBinary.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson-10/Decimal_Binary_Hexadecimal/src/DecimalBinary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lesson-10/Decimal_Binary_Hexadecimal/src/DecimalToHexa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson-10/Decimal_Binary_Hexadecimal/src/DecimalToHexa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lesson-10/Demerging/src/DemergingAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson-10/Demerging/src/DemergingAlgorithm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lesson-10/Demerging/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson-10/Demerging/src/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lesson-10/Reverse_Array_Using_Stack/src/IntegerSwapUsingStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson-10/Reverse_Array_Using_Stack/src/IntegerSwapUsingStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lesson-10/Stack-Using-Linked-List/src/GenericStackClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson-10/Stack-Using-Linked-List/src/GenericStackClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lesson-10/Stack-Using-Linked-List/src/MyGenericStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson-10/Stack-Using-Linked-List/src/MyGenericStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lesson12/src/LargestString/LargestString.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson12/src/LargestString/LargestString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lesson17/src/CopyFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson17/src/CopyFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lesson17/src/ProductFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson17/src/ProductFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MiniTest3/src/KiemSoatNhanVien.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MiniTest3/src/KiemSoatNhanVien.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MiniTest3/src/QuanLiNhanVien.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MiniTest3/src/QuanLiNhanVien.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MiniTest4/src/CrispyFlour.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MiniTest4/src/CrispyFlour.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MiniTest4/src/Discount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MiniTest4/src/Discount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MiniTest4/src/Management.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MiniTest4/src/Management.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MiniTest4/src/Material.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MiniTest4/src/Material.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MiniTest4/src/MaterialManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MiniTest4/src/MaterialManagement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MiniTest4/src/Meat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MiniTest4/src/Meat.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo1/country.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../demo1/country.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo1/src/Country.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo1/src/Country.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo1/src/encodestring.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo1/src/encodestring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,8 +45,11 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.Banana2.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestB.executor&quot;: &quot;Run&quot;,
     &quot;Application.demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.test.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
@@ -103,8 +63,22 @@
   }
 }</component>
   <component name="RunManager" selected="Application.Main">
+    <configuration name="Banana2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Banana2" />
+      <module name="demo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="demo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestB" />
       <module name="demo" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -117,9 +91,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="demo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.TestB" />
+        <item itemvalue="Application.Banana2" />
+        <item itemvalue="Application.test" />
         <item itemvalue="Application.demo" />
       </list>
     </recent_temporary>
@@ -144,6 +128,9 @@
       <workItem from="1741590703505" duration="3113000" />
       <workItem from="1741594276964" duration="43000" />
       <workItem from="1741594327282" duration="9000" />
+      <workItem from="1741849175975" duration="1240000" />
+      <workItem from="1742260860967" duration="1925000" />
+      <workItem from="1742263055229" duration="3000" />
     </task>
     <servers />
   </component>
