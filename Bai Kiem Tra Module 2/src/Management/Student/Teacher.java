@@ -49,4 +49,14 @@ public class Teacher extends Class{
     public void setTelephoneNum(String telephoneNum) {
         this.telephoneNum = telephoneNum;
     }
+
+    @Override
+    public String toString() {
+        return "Teacher{" +
+                "teacherName='" + teacherName + '\'' +
+                ", dateOfBirth=" + dateOfBirth +
+                ", sex='" + sex + '\'' +
+                ", telephoneNum='" + telephoneNum + '\'' +
+                '}';
+    }
 }

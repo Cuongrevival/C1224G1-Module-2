@@ -71,7 +71,6 @@ public class StudentCSV {
         File file = new File(studentFile);
         try (BufferedWriter bw = new BufferedWriter(new FileWriter(studentFile, true))) {
             if (!file.exists()) {
-                bw.write("id,name,date of birth, gender, phone number, class id");
                 bw.newLine();
             }
             bw.write(student.toString());
@@ -125,7 +124,7 @@ public class StudentCSV {
         }
     }
 
-    public Map<String, String> getBatchMap(){
+    public Map<String, String> getBatchMap() {
         Map<String, String> batchMap = new HashMap<>();
         try (BufferedReader reader = new BufferedReader(new FileReader(batchFile))) {
             reader.readLine();
@@ -139,6 +138,7 @@ public class StudentCSV {
         }
         return batchMap;
     }
+
     public void searchStudentByName(String name) {
         boolean found = false;
         File file = new File(studentFile);
@@ -167,6 +167,52 @@ public class StudentCSV {
             }
         }
     }
+
+    public void addDefaultBatchList() {
+        String[][] batchList = {
+                {"C01", "Lớp Công nghệ thông tin 1"},
+                {"C02", "Lớp Công nghệ thông tin 2"},
+                {"C03", "Lớp Kỹ thuật phần mềm"},
+                {"C04", "Lớp An toàn thông tin"},
+                {"C05", "Lớp Quản trị mạng"}
+        };
+
+        try (BufferedWriter bw = new BufferedWriter(new FileWriter(batchFile))) {
+
+            bw.write("class_id,class_name");
+            bw.newLine();
+
+            for (String[] batch : batchList) {
+                bw.write(batch[0] + "," + batch[1]);
+                bw.newLine();
+            }
+
+            System.out.println("Đã thêm danh sách mã lớp học mặc định vào batchs.csv");
+        } catch (IOException e) {
+            System.err.println("Lỗi ghi file batchs.csv!");
+        }
+    }
+
+    public void searchTeacherById(String id) {
+        try (BufferedReader br = new BufferedReader(new FileReader("data/teacher.csv"))) {
+            String line;
+            boolean found = false;
+            while ((line = br.readLine()) != null) {
+                String[] parts = line.split(",");
+                if (parts[0].equals(id)) {
+                    found = true;
+                    System.out.println(line);
+                }
+            }
+            if (!found) {
+                System.out.println("Không thấy giáo viên");
+            }
+        } catch (IOException e) {
+            System.err.println("ERROR!");
+        }
+
+    }
 }
+
 
 

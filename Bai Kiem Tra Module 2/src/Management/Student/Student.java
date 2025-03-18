@@ -61,6 +61,6 @@ public class Student extends Class{
 
     @Override
     public String toString() {
-        return "Student: " + studentId + ", " + studentName + ", " + studentBirthDate + ", " + studentSex + ", " + studentTelephoneNumber;
+        return  studentId + "," + studentName + "," + studentBirthDate + "," + studentSex + "," + studentTelephoneNumber + "," + getClassId();
     }
 }

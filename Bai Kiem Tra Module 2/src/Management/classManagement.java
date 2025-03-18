@@ -13,9 +13,14 @@ import java.util.Scanner;
 public class classManagement extends Validate {
     Scanner sc = new Scanner(System.in);
     StudentCSV studentInfo = new StudentCSV();
-    List<Teacher> teachers =  new ArrayList<>();
+    Teacher teacher;
+//   public classManagement{
+//        teachers.add(new Teacher("GV01", "Nguyễn Văn A", LocalDate.of(1980, 5, 20), "Nam", "0901234567"));
+//        teachers.add(new Teacher("GV02", "Trần Thị B", LocalDate.of(1985, 7, 15), "Nữ", "0912345678"));
+//        teachers.add(new Teacher("GV03", "Lê Văn C", LocalDate.of(1979, 3, 10), "Nam", "0908765432"));
+//        teachers.add(new Teacher("GV04", "Phạm Thị D", LocalDate.of(1990, 12, 5), "Nữ", "0919876543"));
+//}
     public void addNewStudent() {
-
         int id = studentInfo.getId();
         String studentName;
         do {
@@ -31,14 +36,15 @@ public class classManagement extends Validate {
         String studentGender = sc.nextLine();
         String studentPhoneNumber;
         do {
-            System.out.print("Nhập vào đây số điện thoại sinh viên: ");
+            System.out.println("Nhập vào đây số điện thoại sinh viên: ");
             studentPhoneNumber = sc.nextLine();
         } while (!isValidatePhone(studentPhoneNumber, studentInfo.getExistingPhones()));
         String classId;
         do {
-            System.out.print("Nhập vào đây mã lớp học: ");
+            System.out.print("Nhập vào mã lớp học: ");
             classId = sc.nextLine();
-        } while (studentInfo.batchExists(classId));
+        } while (!studentInfo.batchExists(classId));
+
         Student newStudent = new Student(id, studentName, studentDateOfBirth, studentGender, studentPhoneNumber, classId);
         studentInfo.addStudent(newStudent);
     }
@@ -47,14 +53,17 @@ public class classManagement extends Validate {
         Scanner sc = new Scanner(System.in);
         System.out.print("Nhập mã sinh viên: ");
         int id = sc.nextInt();
+        sc.nextLine();
         try {
             System.out.println("Bạn có chắc chắn muốn xóa? (y/n)");
             String choice = sc.nextLine();
             if (choice.equalsIgnoreCase("y")) {
                 studentInfo.deleteStudentById(id);
+                System.out.println("Đã xóa thành công");
             } else if (choice.equalsIgnoreCase("n")) {
                 System.out.println("Quay về menu chính");
             }
+
         } catch (NotFoundStudentException e) {
             System.out.println(e.getMessage());
         }
@@ -63,35 +72,23 @@ public class classManagement extends Validate {
     public void showStudentWithBatchName() {
         List<Student> students = studentInfo.getStudents();
         Map<String, String> classMap = studentInfo.getBatchMap();
-        System.out.print("Mã SV | Tên sinh viên | Ngày sinh | Giới tính | Tên lớp học");
+        System.out.println("Mã SV | Tên sinh viên | Ngày sinh | Giới tính | Số điện thoại | Tên lớp học");
 
         for (Student s : students) {
             String batchName = classMap.getOrDefault(s.getClassId(), "Không xác định");
-            System.out.print(s.getStudentId() + "|" + s.getStudentName() + "|" + s.getStudentBirthDate() + "|" + s.getStudentSex() + "|" + batchName);
+            System.out.println(s.getStudentId() + " | " + s.getStudentName() + " | " + s.getStudentBirthDate() + " | " + s.getStudentSex() + " | " + s.getStudentTelephoneNumber() + " | " + batchName);
         }
     }
     public void findTeacherById() {
         System.out.println("Nhập vào đây mã giáo viên");
         String teacherId = sc.nextLine();
-        boolean found = false;
-        for (Teacher teacher : teachers) {
-            if (teacherId.equals(teacher.getTeacherId())) {
-                found = true;
-                System.out.println("Mã giáo viên: "  + teacher.getTeacherId());
-                System.out.println("Tên giáo viên: "  + teacher.getTeacherName());
-                System.out.println("Ngày sinh: " + teacher.getDateOfBirth());
-                System.out.println("Giới tính: " + teacher.getSex());
-                System.out.println("Điện thoại: " + teacher.getTelephoneNum());
-                break;
-            }
-        }
-        if (!found) {
-            System.err.println("Không tìm thấy giáo viên");
-        }
+        studentInfo.searchTeacherById(teacherId);
     }
     public void searchStudent() {
         System.out.println("Nhập vào đây một phần tên sinh viên: ");
         String studentName= sc.nextLine();
         studentInfo.searchStudentByName(studentName);
     }
+
+
 }

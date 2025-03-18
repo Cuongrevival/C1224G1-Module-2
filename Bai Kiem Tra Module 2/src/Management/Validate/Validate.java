@@ -7,8 +7,8 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class Validate {
-    private static final String PHONE_EXISTS = "^090\\d{7}$|091\\d{7}";
-    static Pattern pattern = Pattern.compile(PHONE_EXISTS);
+    private static final String PHONE_REGEX = "^(090|091)\\d{7}$";
+    private static final Pattern pattern = Pattern.compile(PHONE_REGEX);
 
     public static boolean isValidateFormatOfDate(String date) {
         SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
@@ -22,12 +22,14 @@ public class Validate {
     }
 
     public static boolean isValidatePhone(String phone, List<String> existsPhone) {
-        Matcher m = pattern.matcher(PHONE_EXISTS);
-        if (m.matches()) {
-            if (existsPhone.contains(phone)) {
-                System.err.println("Số điện thoại bị trùng lặp");
-                return false;
-            }
+        Matcher m = pattern.matcher(phone);
+        if (!m.matches()) {
+            System.err.println("Số điện thoại không đúng định dạng!");
+            return false;
+        }
+        if (existsPhone.contains(phone)) {
+            System.err.println("Số điện thoại bị trùng lặp");
+            return false;
         }
         return true;
     }
